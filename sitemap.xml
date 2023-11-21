@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://josephrasanjana.co/</loc>
+	<lastmod>2023-11-21T18:07:25+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://josephrasanjana.co/images/linkedin.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephrasanjana.co/images/github.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephrasanjana.co/images/youtube.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephrasanjana.co/images/bg_01.avif</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephrasanjana.co/images/project-1.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephrasanjana.co/images/project-2.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephrasanjana.co/images/project-4.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephrasanjana.co/images/project-5.webp</image:loc>
+	</image:image>
+</url>
+</urlset>
